@@ -4,6 +4,7 @@ int main()
 {
     float x,y;
     char ch;
+    printf("---------BANKING MANAGEMENT----------\n");
     printf("Enter initial amount\n");
     scanf("%f",&x);
     printf("Enter \nc for credit\nd for debit \nb for balance\n ");
