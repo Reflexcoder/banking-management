@@ -23,7 +23,7 @@ int main()
         if(x>=y)
         {
         x-=y;
-        printf("Nwe amount=%f",x);
+        printf("New amount=%f",x);
     }
     else
     {
